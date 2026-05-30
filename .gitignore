@@ -1,0 +1,25 @@
+  # Build
+  target/
+  *.jar
+  *.war
+  !**/src/main/**/target/
+
+  # IDE
+  .idea/
+  *.iml
+  .vscode/
+  .classpath
+  .project
+  .settings/
+
+  # OS
+  .DS_Store
+  Thumbs.db
+
+  # Logs
+  *.log
+
+  # Env / secrets
+  .env
+  *.env.local
+  
