@@ -1,0 +1,14 @@
+fello/miage/modeles/UserEntity$UserEntityBuilder.class
+fello/miage/exceptions/technical/UserNotFoundException.class
+fello/miage/components/UserComponent.class
+fello/miage/CompositeApplication.class
+fello/miage/modeles/CourEntity.class
+fello/miage/exceptions/rest/ForbiddenRestException.class
+fello/miage/mappers/CompositeCourMapper.class
+fello/miage/modeles/CourEntity$CourEntityBuilder.class
+fello/miage/modeles/UserEntity.class
+fello/miage/components/CourComponent.class
+fello/miage/exceptions/rest/BadRequestRestException.class
+fello/miage/enums/RoleMembre.class
+fello/miage/services/CompositeCourService.class
+fello/miage/controllers/CompositeCourController.class

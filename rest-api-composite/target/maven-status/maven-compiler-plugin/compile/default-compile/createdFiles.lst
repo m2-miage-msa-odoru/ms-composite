@@ -1,0 +1,5 @@
+fello/miage/requests/CreateCourRequest.class
+fello/miage/requests/CreateCourRequest$CreateCourRequestBuilder.class
+fello/miage/responses/CourDTO$CourDTOBuilder.class
+fello/miage/responses/CourDTO.class
+fello/miage/endpoints/CompositeCourEndpoint.class

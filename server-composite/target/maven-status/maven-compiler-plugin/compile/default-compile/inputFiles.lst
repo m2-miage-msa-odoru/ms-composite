@@ -1,0 +1,12 @@
+/app/server-composite/src/main/java/fello/miage/CompositeApplication.java
+/app/server-composite/src/main/java/fello/miage/components/CourComponent.java
+/app/server-composite/src/main/java/fello/miage/components/UserComponent.java
+/app/server-composite/src/main/java/fello/miage/controllers/CompositeCourController.java
+/app/server-composite/src/main/java/fello/miage/enums/RoleMembre.java
+/app/server-composite/src/main/java/fello/miage/exceptions/rest/BadRequestRestException.java
+/app/server-composite/src/main/java/fello/miage/exceptions/rest/ForbiddenRestException.java
+/app/server-composite/src/main/java/fello/miage/exceptions/technical/UserNotFoundException.java
+/app/server-composite/src/main/java/fello/miage/mappers/CompositeCourMapper.java
+/app/server-composite/src/main/java/fello/miage/modeles/CourEntity.java
+/app/server-composite/src/main/java/fello/miage/modeles/UserEntity.java
+/app/server-composite/src/main/java/fello/miage/services/CompositeCourService.java

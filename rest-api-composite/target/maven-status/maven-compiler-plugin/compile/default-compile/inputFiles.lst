@@ -1,0 +1,3 @@
+/app/rest-api-composite/src/main/java/fello/miage/endpoints/CompositeCourEndpoint.java
+/app/rest-api-composite/src/main/java/fello/miage/requests/CreateCourRequest.java
+/app/rest-api-composite/src/main/java/fello/miage/responses/CourDTO.java
