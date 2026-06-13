@@ -1,5 +1,10 @@
-fello/miage/requests/CreateCourRequest.class
+fello/miage/responses/CompetitionDTO$CompetitionDTOBuilder.class
 fello/miage/requests/CreateCourRequest$CreateCourRequestBuilder.class
+fello/miage/requests/CreateCompetitionRequest$CreateCompetitionRequestBuilder.class
+fello/miage/requests/CreateCompetitionRequest.class
+fello/miage/requests/CreateCourRequest.class
 fello/miage/responses/CourDTO$CourDTOBuilder.class
 fello/miage/responses/CourDTO.class
+fello/miage/responses/CompetitionDTO.class
+fello/miage/endpoints/CompositeCompetitionEndpoint.class
 fello/miage/endpoints/CompositeCourEndpoint.class
