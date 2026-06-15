@@ -23,4 +23,7 @@ public interface CourComponent {
 
     @GetMapping("/api/v1/cours/by-niveau/{niveau}")
     List<CourEntity> getCoursByNiveau(@PathVariable("niveau") String niveau);
+
+    @GetMapping("/api/v1/cours/{id}")
+    CourEntity getCoursById(@PathVariable("id") String id);
 }
